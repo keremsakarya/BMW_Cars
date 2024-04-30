@@ -10,3 +10,8 @@ Modüler SCSS: SCSS dosyaları, kolay bakım ve ölçeklenebilirlik için modül
 
 Kullanıcı Dostu Arabirim: Kullanıcıların arabaları kolayca gözden geçirebilmeleri için sezgisel bir arayüz tasarlanmıştır.
 
+# GIF
+
+![2024-04-30 20-04-54](https://github.com/keremsakarya/BMW_Cars/assets/164352221/465cccb5-32f6-43c8-b05c-9b2e6e8177a6)
+
+
